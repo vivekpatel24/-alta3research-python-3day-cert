@@ -6,7 +6,7 @@ Trying for Alta3resarch Certification.
 Python code is a simple three number addition program.
 
 Instruction -
-Input a First whole number press enter
-Input a Second whole number press enter
-Input a Third whole number press enter
-Output should be the addition of the three numbers
+Input a First whole number press enter.
+Input a Second whole number press enter.
+Input a Third whole number press enter.
+Output should be the addition of the three numbers.
